@@ -1,0 +1,27 @@
+{
+  "name": "Hello-Gitpod",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "npx webpack",
+    "serve": "http-server ./dist -p 3000",
+    "test": "echo \"No Test Specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19UV/Hello-Gitpod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19UV/Hello-Gitpod/issues"
+  },
+  "homepage": "https://github.com/19UV/Hello-Gitpod#readme",
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  }
+}

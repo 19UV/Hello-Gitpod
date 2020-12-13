@@ -1,0 +1,1 @@
+(()=>{for(var o=0,l=1,r=1,a=0;a<5;a++)console.log(o),r=(o=l)+(l=r)})();
